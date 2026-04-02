@@ -9,7 +9,6 @@ I enjoy solving real-world problems using **Python, FastAPI, and Computer Vision
 ## 🚀 What I Do
 - 🧠 Build AI/ML projects (YOLO, EfficientNet, OpenCV)
 - ⚙️ Develop scalable backend systems using FastAPI & Django
-- ☁️ Deploy applications on AWS & GCP
 - 🔄 Work with REST APIs, CI/CD pipelines, and testing (pytest)
 
 ---
