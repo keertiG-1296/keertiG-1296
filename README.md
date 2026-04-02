@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Keerti
 
-<!--
-**keertiG-1296/keertiG-1296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Electronics and Communication Engineering student passionate about building **AI-powered applications** and **scalable backend systems**.
 
-Here are some ideas to get you started:
+I enjoy solving real-world problems using **Python, FastAPI, and Computer Vision**, and I’m especially interested in **agentic workflows, automation, and production-grade system design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+- 🧠 Build AI/ML projects (YOLO, EfficientNet, OpenCV)
+- ⚙️ Develop scalable backend systems using FastAPI & Django
+- ☁️ Deploy applications on AWS & GCP
+- 🔄 Work with REST APIs, CI/CD pipelines, and testing (pytest)
+
+---
+
+## 💻 Tech Stack
+**Languages:** Python, JavaScript, SQL, C  
+**Backend:** FastAPI, Django, Flask  
+**Frontend (Basics):** React.js, Next.js, Tailwind CSS  
+**AI/ML:** PyTorch, TensorFlow, YOLOv5/v8, OpenCV  
+**Tools:** Git, Docker (basic), Postman, Linux  
+
+---
+
+## 📌 Featured Projects
+- 🔍 **Surface Defect Detection** – AI vision system with GradCAM explainability  
+- 🛒 **MarketMate** – Scalable FastAPI backend with JWT authentication  
+- 🚦 **Smart Traffic Controller** – Real-time adaptive signal system using YOLO  
+
+---
+
+## 🎯 Current Focus
+- Solving DSA problems for placements  
+- Building impactful real-world projects  
+- Exploring LLMs and agent-based systems  
+
+---
+
+## 📫 Connect With Me
+- 📧 keerti.s.g2020@gmail.com  
+- 💻 GitHub: https://github.com/keertiG-1296  
+
+---
+⭐ *Always learning, building, and improving*
