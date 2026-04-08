@@ -15,8 +15,7 @@ I enjoy solving real-world problems using **Python, FastAPI, and Computer Vision
 
 ## 💻 Tech Stack
 **Languages:** Python, JavaScript, SQL, C  
-**Backend:** FastAPI, Django, Flask  
-**Frontend (Basics):** React.js, Next.js, Tailwind CSS  
+**Backend:** FastAPI, Django  
 **AI/ML:** PyTorch, TensorFlow, YOLOv5/v8, OpenCV  
 **Tools:** Git, Docker (basic), Postman, Linux  
 
