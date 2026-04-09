@@ -1,43 +1,59 @@
 # 👋 Hi, I'm Keerti
 
-Final-year Electronics and Communication Engineering student passionate about building **AI-powered applications** and **scalable backend systems**.
+# 👋 Hi, I'm Keerti Gadigeppagoudar
 
-I enjoy solving real-world problems using **Python, FastAPI, and Computer Vision**, and I’m especially interested in **agentic workflows, automation, and production-grade system design**.
-
----
-
-## 🚀 What I Do
-- 🧠 Build AI/ML projects (YOLO, EfficientNet, OpenCV)
-- ⚙️ Develop scalable backend systems using FastAPI & Django
-- 🔄 Work with REST APIs, CI/CD pipelines, and testing (pytest)
+🎓 Final-year ECE student @ Jain College of Engineering (VTU) · CGPA 8.1  
+🔍 Actively seeking **ML Engineer / Python Backend Developer** roles  
+📍 Karnataka · Open to remote & relocation
 
 ---
 
-## 💻 Tech Stack
-**Languages:** Python, SQL, C  
-**Backend:** FastAPI, Django  
-**AI/ML:** PyTorch, TensorFlow, YOLOv5/v8, OpenCV  
-**Tools:** Git, Docker (basic), Postman, Linux  
+## 🚀 What I Build
+
+- 🧠 **Computer Vision systems** — YOLOv3/v5, OpenCV, PyTorch
+- ⚙️ **Scalable backend APIs** — FastAPI, Django, REST, JWT auth
+- 📊 **ML pipelines** — training, inference, deployment
 
 ---
 
-## 📌 Featured Projects
-- 🔍 **Surface Defect Detection** – AI vision system with GradCAM explainability  
-- 🛒 **MarketMate** – Scalable FastAPI backend with JWT authentication  
-- 🚦 **Smart Traffic Controller** – Real-time adaptive signal system using YOLO  
+## 🛠 Tech Stack
+
+| Area | Tools |
+|------|-------|
+| ML / CV | Python, PyTorch, YOLOv5, OpenCV, scikit-learn |
+| Backend | FastAPI, Django, Flask, REST APIs |
+| Database | MySQL, SQLite, SQLAlchemy |
+| Cloud | AWS (EC2), GCP |
+| Testing | pytest, Postman |
+| Tools | Git, Docker (basic), Linux |
 
 ---
 
-## 🎯 Current Focus
-- Solving DSA problems for placements  
-- Building impactful real-world projects  
-- Exploring LLMs and agent-based systems  
+## 🔥 Featured Projects
+
+| Project | What it does | Tech |
+|---------|-------------|------|
+| [🚦 Smart Traffic Controller](https://github.com/keertiG-1296/Traffic-Controller) | Real-time vehicle detection, **40% wait time reduction** | YOLOv3, Python, OpenCV |
+| [🔩 Metal Defect Detection](https://github.com/keertiG-1296/metal-detection-system) | Surface defect classification with trained PyTorch model | PyTorch, OpenCV |
+| [🛒 MarketMate](https://github.com/keertiG-1296/MarketMate) | Full-stack vendor marketplace with JWT auth | FastAPI, React, MySQL |
 
 ---
 
-## 📫 Connect With Me
-- 📧 keerti.s.g2020@gmail.com  
-- 💻 GitHub: https://github.com/keertiG-1296  
+## 📊 GitHub Stats
+
+![Keerti's GitHub stats](https://github-readme-stats.vercel.app/api?username=keertiG-1296&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keertiG-1296&layout=compact&theme=default&hide_border=true)
 
 ---
-⭐ *Always learning, building, and improving*
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-keertig-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/keertig)
+[![Email](https://img.shields.io/badge/Email-keerti.s.g2020@gmail.com-red?style=flat&logo=gmail)](mailto:keerti.s.g2020@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-keertiG--1296-black?style=flat&logo=github)](https://github.com/keertiG-1296)
+
+---
+
+💼 **Open to work — ML Engineer / Python Developer roles**  
+⭐ *If you find my work interesting, let's connect!*
