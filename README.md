@@ -36,11 +36,6 @@
 | [🛒 MarketMate](https://github.com/keertiG-1296/MarketMate) | Full-stack vendor marketplace with JWT auth | FastAPI, React, MySQL |
 
 ---
-## 📊 Activity
-
-![Profile Views](https://komarev.com/ghpvc/?username=keertiG-1296&color=blue&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/keertiG-1296?style=flat)
-
 **Languages I work with most:**  
 🐍 Python · ⚡ FastAPI · 🔥 PyTorch · 👁️ OpenCV · 🗄️ MySQL
 ---
