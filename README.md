@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Keerti
-
 # 👋 Hi, I'm Keerti Gadigeppagoudar
 
 🎓 Final-year ECE student @ Jain College of Engineering (VTU) · CGPA 8.1  
