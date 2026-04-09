@@ -37,7 +37,7 @@
 
 ---
 **Languages I work with most:**  
-🐍 Python · ⚡ FastAPI · 🔥 PyTorch · 👁️ OpenCV · 🗄️ MySQL
+🐍 Python 🌿 Django · ⚡ FastAPI · 🔥 PyTorch · 👁️ OpenCV · 🗄️ MySQL
 ---
 
 ## 📫 Let's Connect
