@@ -2,7 +2,7 @@
 
 🎓 Final-year ECE student @ Jain College of Engineering (VTU) · CGPA 8.1  
 🔍 Actively seeking **ML Engineer / Python Backend Developer** roles  
-📍 Karnataka · Open to remote & relocation
+📍 Karnataka 
 
 ---
 
