@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keerti Gadigeppagoudar
 
-🎓 Final-year ECE student @ Jain College of Engineering (VTU) · CGPA 8.1  
+🎓 Final-year ECE student @ Jain College of Engineering (VTU) · CGPA 8.21  
 🔍 Actively seeking **ML Engineer / Python Backend Developer** roles  
 📍 Karnataka 
 
